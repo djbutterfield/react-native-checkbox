@@ -4,14 +4,6 @@ This repo is a fork of sconxu/react-native-checkbox, the purpose of it is to all
 # react-native-checkbox
 Checkbox component for React native
 
-##Installation:
-
-Install the component through npm using:
-
-```
-npm install react-native-checkbox --save
-```
-
 
 ##Example:
 ```js
