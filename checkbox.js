@@ -75,8 +75,8 @@ var CheckBox = React.createClass({
 var styles = StyleSheet.create({
   container: {
     flexDirection: 'row',
-    alignItems: 'center',
-    marginBottom: 5,
+    //alignItems: 'center',
+    marginBottom: 25,
   },
   checkbox: {
     width: 26,
