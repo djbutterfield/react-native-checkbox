@@ -83,6 +83,7 @@ var styles = StyleSheet.create({
     height: 26
   },
   labelContainer: {
+    flex: 1,
     marginLeft: 10,
     marginRight: 10
   },
