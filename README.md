@@ -1,3 +1,5 @@
+# Note - this repo is a fork of sconxu/react-native-checkbox, the purpose of it is to allow for the checkbox label to wrap and to add more space between the items.  These two features are quite useful when using multiple checkboxes in a ScrollView component.
+
 # react-native-checkbox
 Checkbox component for React native
 
